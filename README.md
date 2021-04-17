@@ -8,9 +8,9 @@
 ---
 ##### How Dr.Diagno works:
 1. Initially,the user is prompted to create an account. This helps in keeping track of the user's past predictions and some other vital information.
-2. The next page requests for the information which the app requires to carry out the diagnostic, which are Sympotoms, temperature and the number of days the user has been experiencing the symptoms.
-3. The data given by the user is transfered to the backend(django) which contains the MachineLearning models that predict and return the most possible diseases to the app.
-4. The app then generates a graph that depicts the results processsed by the MachineLearning models.
+2. The next page requests for the information which the app requires to carry out the diagnostic, which are Symotoms, temperature and the number of days the user has been experiencing the symptoms.
+3. The data given by the user is transfered to the backend(django) which contains the Machine Learning models that predict and return the most possible diseases to the app.
+4. The app then generates a graph that depicts the results processsed by the Machine Learning models.
 5. After the prediction phase, details like the disease description and the appropriate precautions are loaded onto the home screen, so that the user can get a few more insights about his condition.
 
 ---
@@ -49,4 +49,7 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
-7. The app will run on the localhost:8000
+7. The app will run on the 
+```
+localhost:8000
+```
