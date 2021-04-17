@@ -9,8 +9,8 @@ This Dr.Diagno is an artificial intelligence app which can be able to diagnose s
 
 
 # Tech Stack
-Front-End: React, Chart.js, Material UI
-Back-End: Django Rest Framework, JSON Web Token(JWT)
-Database: PostGreSQL
-AI: Catboost Algorithm from Catboost package
+* Front-End: React, Chart.js, Material UI
+* Back-End: Django Rest Framework, JSON Web Token(JWT)
+* Database: PostGreSQL
+* AI: Catboost Algorithm from Catboost package
 
