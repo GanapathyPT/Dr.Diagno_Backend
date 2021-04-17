@@ -18,7 +18,7 @@
 
 ---
 ### How to run this app:
-1. CLone this repository
+1. Clone this repository
 ```
 git clone https://github.com/GanapathyPT/Dr.Diagno_Backend.git
 ```
